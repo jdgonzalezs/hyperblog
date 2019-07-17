@@ -2,7 +2,11 @@ body
 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> cabecera
 }
 
 #cabecera
